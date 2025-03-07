@@ -35,7 +35,7 @@
 - [Medical Cost Prediction]()
 
 ### **Data Visualization & Analytics**  
-- **Tableau** (https://public.tableau.com/app/profile/yilin.pu1864/vizzes)
+- **Tableau** https://public.tableau.com/app/profile/yilin.pu1864/vizzes
 
 ### **Certificate**
 - **IBM Data Scientist**
