@@ -26,7 +26,7 @@
 - [Text Reviews Classifier]()
 
 ### **Customer Analytics**  
-- [Customer Segmentation]()
+- [Customer Segmentation](https://github.com/pyl32/Sprocket-Central-Pty-Ltd-data-project)
 
 ### **Spatial Data Science (ArcGISPro, Python)**  
 - [King County House Price Prediction]()
