@@ -80,6 +80,13 @@
 ![](https://img.shields.io/badge/Code-Seaborn-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Code-Excel-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
+
+#### My favourite cloud systems
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)
 ---
 
-
+![Yilin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyl32&langs_count=8&layout=compact&hide_border=true&since=2022)
