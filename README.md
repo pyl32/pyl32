@@ -32,7 +32,7 @@
 - [King County House Price Prediction]()
 
 ### **Healthcare Analytics**
-- [Medical Cost Prediction]()
+- [Medical Cost Prediction](https://github.com/pyl32/Medical-Cost-Prediction/tree/main)
 
 ### **Data Visualization & Analytics**  
 - **Tableau** https://public.tableau.com/app/profile/yilin.pu1864/vizzes
