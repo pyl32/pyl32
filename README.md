@@ -23,7 +23,7 @@
 
 ### **Machine Learning (Python, R)**  
 - [Recommendation System]()
-- [Text Reviews Classifier]()
+- [Text Reviews Classifier](https://github.com/pyl32/Text-Classification/tree/main)
 
 ### **Customer Analytics**  
 - [Customer Segmentation](https://github.com/pyl32/Sprocket-Central-Pty-Ltd-data-project)
