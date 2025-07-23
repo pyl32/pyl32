@@ -4,7 +4,7 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://github.com/pyl32/)
 
 
-## 👀 I'm a Data Scientist/Analyst passionate about questioning and figuring out the 'why' and 'what now' behind data and translating them into actionable insights. My goals are:
+## 👀 I'm a Data Scientist passionate about questioning and figuring out the 'why' and 'what now' behind data and translating them into actionable insights. My goals are:
 
 - To leverage data-driven insights to optimize decision-making and business strategies.
 - To continuously enhance my expertise in machine learning, analytics, and data engineering.
