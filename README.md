@@ -13,7 +13,7 @@
 
 ## ⚡️ Here's what I'm involved in:
 
-- Supply Chain Data Analyst at Vitamin World, optimizing logistics, demand planning, inventory management, sales analysis and data-driven decision-making.
+- Supply Chain Data Analyst optimizing logistics, demand planning, inventory management, sales analysis and data-driven decision-making.
 - Former Quantitative Analyst Intern at Shepherd Ventures, developing financial models and machine learning strategies for portfolio optimization.
 - Experienced Data Scientist & Analyst with expertise in Python, SQL, R, and advanced Excel for business intelligence and forecasting.
 - Contributor to Open-Source & Data Science Projects, focusing on machine learning, AI-driven analytics, and geospatial data science.
