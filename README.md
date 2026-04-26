@@ -40,7 +40,7 @@
 - [Medical Cost Prediction](https://github.com/pyl32/Medical-Cost-Prediction/tree/main)
 
 ### **Data Visualization & Analytics**  
-- [View Tableau Samples]([https://github.com/pyl32/Medical-Cost-Prediction/tree/main]
+- [View Tableau Samples][https://github.com/pyl32/Medical-Cost-Prediction/tree/main]
 
 
 
