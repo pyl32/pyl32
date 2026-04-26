@@ -27,6 +27,9 @@
 ### **Customer Analytics**  
 - [Customer Segmentation](https://github.com/pyl32/Sprocket-Central-Pty-Ltd-data-project)
 
+### **GIS Programming & Spatial Analysis**
+- [5 geospatial projects](https://github.com/pyl32/GIS-Programming/tree/main)
+
 ### **Spatial Data Science (ArcGISPro, Python)**  
 - [King County House Price Prediction]()
 
@@ -38,6 +41,8 @@
 
 ### **Data Visualization & Analytics**  
 - **Tableau** https://public.tableau.com/app/profile/yilin.pu1864/vizzes
+
+
 
 ### **Certificate**
 - **IBM Data Scientist**
