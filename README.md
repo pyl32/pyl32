@@ -28,13 +28,7 @@
 - [Customer Segmentation](https://github.com/pyl32/Sprocket-Central-Pty-Ltd-data-project)
 
 ### **GIS Programming & Spatial Analysis**   
-- Earthquake Risk for LA Schools
-- Cultural Centers Mapping with ArcPy
-- Spatial Analysis with GeoPandas
-- CA Income Distribution Toolbox
-- U.S. Gasoline Price Toolbox
-
-  [View Projects Details](https://github.com/pyl32/GIS-Programming/tree/main)
+- Portfolio [View Projects Details](https://github.com/pyl32/GIS-Programming/tree/main)
   
 
 ### **Spatial Data Science (ArcGISPro, Python)**  
