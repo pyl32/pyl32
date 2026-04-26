@@ -28,8 +28,7 @@
 - [Customer Segmentation](https://github.com/pyl32/Sprocket-Central-Pty-Ltd-data-project)
 
 ### **GIS Programming & Spatial Analysis**
-- Completed 5 projects using GIS programming and spatial analysis techniques.
-  [View project details](https://github.com/pyl32/GIS-Programming/tree/main)
+- 5 Projects [View project details](https://github.com/pyl32/GIS-Programming/tree/main)
 
 ### **Spatial Data Science (ArcGISPro, Python)**  
 - [King County House Price Prediction]()
