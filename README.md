@@ -18,7 +18,7 @@
 - Experienced Data Scientist with expertise in Python, SQL, R, and advanced Excel for business intelligence and forecasting.
 - Contributor to Open-Source & Data Science Projects, focusing on machine learning, AI-driven analytics, and geospatial data science.
 
-## 👩🏻‍💻 My Analytical project experience:
+## 👩🏻‍💻 My analytical project experience:
 
 ### **Machine Learning (Python, R)**  
 - [Recommendation System]()
