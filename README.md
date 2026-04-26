@@ -34,7 +34,7 @@
 - [King County House Price Prediction]()
 
 ### **Database**
-- [MovieDB: Lightweight Database Engine (Relational + NoSQL)](https://github.com/pyl32/DSCI551-Foundation-of-Data-Management.git)
+- [MovieDB: Lightweight Database Engine (Relational + NoSQL)](https://github.com/pyl32/DSCI551-Foundation-of-Data-Management/tree/main/MovieDatabaseProject)
 
 ### **Healthcare Analytics**
 - [Medical Cost Prediction](https://github.com/pyl32/Medical-Cost-Prediction/tree/main)
