@@ -28,11 +28,11 @@
 - [Customer Segmentation](https://github.com/pyl32/Sprocket-Central-Pty-Ltd-data-project)
 
 ### **GIS Programming & Spatial Analysis**
-- [1. Earthquake Risk for LA Schools](#project-1) | ArcGIS Pro · ModelBuilder | LA County | Public Safety |
-- [2. Cultural Centers Mapping with ArcPy](#project-2) | Python · ArcPy | Los Angeles | Cultural Access |
-- [3. Spatial Analysis with GeoPandas](#project-3) | Python · GeoPandas · Jupyter | Antwerp + San Diego | Urban Planning |
-- [4. CA Income Distribution Toolbox](#project-4) | Python · ArcPy · Pandas | California | Socioeconomics |
-- [5. U.S. Gasoline Price Toolbox](#project-5) | Python · ArcPy · Pandas | United States | Energy Economics |
+- [Earthquake Risk for LA Schools]| ArcGIS Pro · ModelBuilder | LA County | Public Safety |
+- [Cultural Centers Mapping with ArcPy]| Python · ArcPy | Los Angeles | Cultural Access |
+- [Spatial Analysis with GeoPandas]| Python · GeoPandas · Jupyter | Antwerp + San Diego | Urban Planning |
+- [CA Income Distribution Toolbox]| Python · ArcPy · Pandas | California | Socioeconomics |
+- [U.S. Gasoline Price Toolbox]| Python · ArcPy · Pandas | United States | Energy Economics |
 
 - [View Projects Details](https://github.com/pyl32/GIS-Programming/tree/main)
 
