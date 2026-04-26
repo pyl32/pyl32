@@ -28,7 +28,7 @@
 - [Customer Segmentation](https://github.com/pyl32/Sprocket-Central-Pty-Ltd-data-project)
 
 ### **GIS Programming & Spatial Analysis**   
-- Portfolio [View Projects Details](https://github.com/pyl32/GIS-Programming/tree/main)
+- [View 5 Projects Details](https://github.com/pyl32/GIS-Programming/tree/main)
   
 
 ### **Spatial Data Science (ArcGISPro, Python)**  
