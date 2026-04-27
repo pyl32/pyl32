@@ -32,7 +32,7 @@
   
 
 ### **Spatial Data Science (ArcGISPro, Python)**  
-- [King County House Price Prediction]()
+- [King County House Price Prediction](https://github.com/pyl32/King-County-House-Price-Prediction)
 
 ### **Database**
 - [MovieDB: Lightweight Database Engine (Relational + NoSQL)](https://github.com/pyl32/DSCI551-Foundation-of-Data-Management/tree/main/MovieDatabaseProject)
