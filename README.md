@@ -96,5 +96,3 @@
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
 [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)
 ---
-
-![Yilin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyl32&langs_count=8&layout=compact&hide_border=true&since=2022)
